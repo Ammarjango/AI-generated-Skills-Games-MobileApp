@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494448154476",
+    "project_id": "qrk-game",
+    "storage_bucket": "qrk-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494448154476:android:195829527929e91eb54549",
+        "android_client_info": {
+          "package_name": "com.qrk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcWbiS7OuJt9LY5CBqv5_T3S2g6S7DXes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
